@@ -14,4 +14,8 @@ class CarTests extends GrailsUnitTestCase {
     void testSomething() {
 
     }
+	
+	void testSomethingAgain() {
+	
+	}
 }
